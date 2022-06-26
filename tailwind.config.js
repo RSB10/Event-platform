@@ -10,7 +10,7 @@ module.exports = {
         blue: {
           300: "#0093B3",
           500: "#3D9BAF",
-          700: "#74AEBB",
+          700: "#12AEBB",
         },
         sky: {
           500: "#399ED8",
