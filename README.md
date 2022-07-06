@@ -22,6 +22,7 @@ This project is a platform of videos developed to online courses, with registrat
 
 - [ReactJS](https://reactjs.org/)
 - [GraphQL](https://graphql.org/)
+- [GraphCMS](https://graphcms.com)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [Apollo Client](https://www.apollographql.com/)
