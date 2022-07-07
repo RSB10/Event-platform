@@ -50,7 +50,7 @@ This project is a platform of videos developed to online courses, with registrat
   # Installing project dependencies.
   $ yarn # ou npm install
   # Start the web application
-  $ yarn start # or npm start
+  $ npm run dev
 ```
 
 ---
